@@ -1,10 +1,8 @@
 [project]
-name = "my-app"
+name = "python-template"
 version = "0.1.0"
-description = "AI integration for vehicle telemetry"
-authors = [
-    { name = "ZippityZap01", email = "alec0973@icloud.com" }
-]
+description = ""
+authors = ["Your Name <you@example.com>"]
 requires-python = ">=3.11"
 dependencies = [
     "flask>=3.1.0",
