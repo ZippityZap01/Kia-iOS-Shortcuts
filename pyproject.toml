@@ -2,7 +2,10 @@
 name = "python-template"
 version = "0.1.0"
 description = ""
-authors = "ZippityZap01"
+name = "my-app"
+authors = [
+  { name = "ZippityZap01", email = "alec0973@icloud.com" }
+]
 requires-python = ">=3.11"
 dependencies = [
     "flask>=3.1.0",
